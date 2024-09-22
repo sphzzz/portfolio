@@ -37,7 +37,7 @@ main: #简历主要内容，
   - title: Georgia Institute of Technology
     duration: Spring 2025 - 
     sub: Graduate
-    detail: Online Master of Computer Science.
+    detail: Online Master of Science in Computer Science.
 
 - type: skills
   # name: "技能"
