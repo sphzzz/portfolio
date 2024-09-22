@@ -39,7 +39,7 @@ main: #简历主要内容，
     sub: Graduate
     detail: Online Master of Science in Computer Science.
 
-- type: skills
+- type: 技术栈
   # name: "技能"
   content:
   - title: 编程语言
