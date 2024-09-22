@@ -44,11 +44,11 @@ main: #简历主要内容，
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言2
-    - 语言3
-  - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
+    - Python
+    - Javascript
+    - C
+  - title: 框架
+    summary: Reactjs, Django, Nodejs
 
 - type: experience
   name: 经验
